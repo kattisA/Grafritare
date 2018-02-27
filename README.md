@@ -1,4 +1,6 @@
-ProjectProgramming1
+Grafritare- Graph draw
 ===================
 
-Project 1 programming year 1
+En enkel grafritare i python.
+
+A simple graph draw in python.
