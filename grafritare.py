@@ -82,12 +82,12 @@ def main():
     # Printing a list of x values
     # Printing a list of y values
 
-    print xs
-    print ys
-    print yxs
-    print points
-    print make_circles(points, w)
-    print draw_line (points,w)
+    print (xs)
+    print (ys)
+    print (yxs)
+    print (points)
+    print (make_circles(points, w))
+    print (draw_line (points,w))
 
     # Here we have to add a relevant while loop for our program
 
@@ -186,12 +186,12 @@ def positions_XY(xs, ys):
     y_Max = max(ys)
     y_Min = -max(ys)
 
-    print y_Max
-    print y_Min
+    print (y_Max)
+    print (y_Min)
     delta_X = x_Max - x_Min
     delta_Y = float(y_Max) - float(y_Min)
 
-    print delta_Y
+    print (delta_Y)
 
     scale_X = w_Width / delta_X
     scale_Y = w_Height / delta_Y
