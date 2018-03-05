@@ -1,6 +1,6 @@
-Grafritare- Graph draw
+Grafritare- Graph drawer
 ===================
 
 En enkel grafritare i python.
 
-A simple graph draw in python.
+A simple graph drawer in python.
